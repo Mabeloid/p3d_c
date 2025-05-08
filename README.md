@@ -1,0 +1,1 @@
+c is a miserable slog of a programming language and i have to release this to show how much work it is to make anything that's even halfway to functioning
